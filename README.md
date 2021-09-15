@@ -208,7 +208,7 @@ Donc voilà une fois toute ces modifications effectuer plus qu’à faire le tes
 
 Et vous devriez obtenir cela :
 
-`
+```
 PHPUnit 7.5.20 by Sebastian Bergmann and contributors.
 
 Testing Project Test Suite
@@ -218,7 +218,7 @@ Time: 124 ms, Memory: 6.00 MB
 
 OK (8 tests, 10 assertions)
 
-`
+```
 
 Cela signifie que vous venez de finir le challenge 2 
 
