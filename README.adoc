@@ -1,21 +1,20 @@
-= Rapport Projet GuessWhat
-
+**Rapport Projet GuessWhat**
 
 **Mon matériel :**
 
--	MacBook pro M1 2020
--	PHP 8.0	
--	GIT 2.33
+- MacBook pro M1 2020
+- PHP 8.0
+- GIT 2.33
 
 **Requis :**
 
--	Composer
--	PHPUnit
--	GuessWhat
+- [Composer](https://getcomposer.org/download/)
+- [PHPUnit](https://github.com/sebastianbergmann/phpunit)
+- [GuessWhat](https://gitlab.com/okpu/guesswhat)
 
-**Installation de Composer & PHPUnit :**
+**Installation de Composer &amp; PHPUnit :**
 
-**Composer :**
+Composer :
 Pour commencer nous allons télécharger Composer lien dans la catégorie « Requis », installer la dernière version, 2.16 est la dernière version a l’heure actuelle.
 
 Ouvrer le terminal et aller à l’endroit où il a été télécharger pour se repérer dans l’arborescence vous pouvez effectuer la commande LS
